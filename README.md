@@ -9,7 +9,7 @@ This project is created as part of the DevOps Week 02 hands-on activity
 - HTML
 - CSS
 - JavaScript
-- Python
+  
 
 ## Git Activities
 - Created a GitHub repository
